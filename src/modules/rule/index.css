@@ -1,0 +1,12 @@
+.steps-content{
+  padding: 20px;
+}
+.ant-table-thead{
+  background-color: #f7f7f7;
+}
+.steps-action{
+  display: block;
+  text-align: left;
+  height: 32px;
+  padding-left: 77%;
+}
